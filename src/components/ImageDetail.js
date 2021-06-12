@@ -20,7 +20,7 @@ const ImageDetail = props=> {
   
   const styles = StyleSheet.create({
     text: {
-      fontSize: 25
+      fontSize: 24
     }
   });
   
